@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Exam\03.DeckOfCards\bin\Debug\net5.0\03.DeckOfCards.exe
+C:\Users\User\source\repos\Exam\03.DeckOfCards\bin\Debug\net5.0\03.DeckOfCards.deps.json
+C:\Users\User\source\repos\Exam\03.DeckOfCards\bin\Debug\net5.0\03.DeckOfCards.runtimeconfig.json
+C:\Users\User\source\repos\Exam\03.DeckOfCards\bin\Debug\net5.0\03.DeckOfCards.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exam\03.DeckOfCards\bin\Debug\net5.0\03.DeckOfCards.dll
+C:\Users\User\source\repos\Exam\03.DeckOfCards\bin\Debug\net5.0\03.DeckOfCards.pdb
+C:\Users\User\source\repos\Exam\03.DeckOfCards\obj\Debug\net5.0\03.DeckOfCards.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Exam\03.DeckOfCards\obj\Debug\net5.0\03.DeckOfCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Exam\03.DeckOfCards\obj\Debug\net5.0\03.DeckOfCards.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exam\03.DeckOfCards\obj\Debug\net5.0\03.DeckOfCards.AssemblyInfo.cs
+C:\Users\User\source\repos\Exam\03.DeckOfCards\obj\Debug\net5.0\03.DeckOfCards.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exam\03.DeckOfCards\obj\Debug\net5.0\03.DeckOfCards.dll
+C:\Users\User\source\repos\Exam\03.DeckOfCards\obj\Debug\net5.0\refint\03.DeckOfCards.dll
+C:\Users\User\source\repos\Exam\03.DeckOfCards\obj\Debug\net5.0\03.DeckOfCards.pdb
+C:\Users\User\source\repos\Exam\03.DeckOfCards\obj\Debug\net5.0\03.DeckOfCards.genruntimeconfig.cache
+C:\Users\User\source\repos\Exam\03.DeckOfCards\obj\Debug\net5.0\ref\03.DeckOfCards.dll

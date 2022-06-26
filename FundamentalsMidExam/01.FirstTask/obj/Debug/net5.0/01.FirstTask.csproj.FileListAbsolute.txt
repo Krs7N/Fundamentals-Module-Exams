@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Exam\01.FirstTask\bin\Debug\net5.0\01.FirstTask.exe
+C:\Users\User\source\repos\Exam\01.FirstTask\bin\Debug\net5.0\01.FirstTask.deps.json
+C:\Users\User\source\repos\Exam\01.FirstTask\bin\Debug\net5.0\01.FirstTask.runtimeconfig.json
+C:\Users\User\source\repos\Exam\01.FirstTask\bin\Debug\net5.0\01.FirstTask.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exam\01.FirstTask\bin\Debug\net5.0\01.FirstTask.dll
+C:\Users\User\source\repos\Exam\01.FirstTask\bin\Debug\net5.0\01.FirstTask.pdb
+C:\Users\User\source\repos\Exam\01.FirstTask\obj\Debug\net5.0\01.FirstTask.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Exam\01.FirstTask\obj\Debug\net5.0\01.FirstTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Exam\01.FirstTask\obj\Debug\net5.0\01.FirstTask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exam\01.FirstTask\obj\Debug\net5.0\01.FirstTask.AssemblyInfo.cs
+C:\Users\User\source\repos\Exam\01.FirstTask\obj\Debug\net5.0\01.FirstTask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exam\01.FirstTask\obj\Debug\net5.0\01.FirstTask.dll
+C:\Users\User\source\repos\Exam\01.FirstTask\obj\Debug\net5.0\refint\01.FirstTask.dll
+C:\Users\User\source\repos\Exam\01.FirstTask\obj\Debug\net5.0\01.FirstTask.pdb
+C:\Users\User\source\repos\Exam\01.FirstTask\obj\Debug\net5.0\01.FirstTask.genruntimeconfig.cache
+C:\Users\User\source\repos\Exam\01.FirstTask\obj\Debug\net5.0\ref\01.FirstTask.dll

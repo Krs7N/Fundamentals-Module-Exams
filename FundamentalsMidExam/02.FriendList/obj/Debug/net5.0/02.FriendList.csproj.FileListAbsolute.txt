@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Exam\02.FriendList\bin\Debug\net5.0\02.FriendList.exe
+C:\Users\User\source\repos\Exam\02.FriendList\bin\Debug\net5.0\02.FriendList.deps.json
+C:\Users\User\source\repos\Exam\02.FriendList\bin\Debug\net5.0\02.FriendList.runtimeconfig.json
+C:\Users\User\source\repos\Exam\02.FriendList\bin\Debug\net5.0\02.FriendList.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exam\02.FriendList\bin\Debug\net5.0\02.FriendList.dll
+C:\Users\User\source\repos\Exam\02.FriendList\bin\Debug\net5.0\02.FriendList.pdb
+C:\Users\User\source\repos\Exam\02.FriendList\obj\Debug\net5.0\02.FriendList.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Exam\02.FriendList\obj\Debug\net5.0\02.FriendList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Exam\02.FriendList\obj\Debug\net5.0\02.FriendList.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exam\02.FriendList\obj\Debug\net5.0\02.FriendList.AssemblyInfo.cs
+C:\Users\User\source\repos\Exam\02.FriendList\obj\Debug\net5.0\02.FriendList.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exam\02.FriendList\obj\Debug\net5.0\02.FriendList.dll
+C:\Users\User\source\repos\Exam\02.FriendList\obj\Debug\net5.0\refint\02.FriendList.dll
+C:\Users\User\source\repos\Exam\02.FriendList\obj\Debug\net5.0\02.FriendList.pdb
+C:\Users\User\source\repos\Exam\02.FriendList\obj\Debug\net5.0\02.FriendList.genruntimeconfig.cache
+C:\Users\User\source\repos\Exam\02.FriendList\obj\Debug\net5.0\ref\02.FriendList.dll
