@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\FundamentalsFinalExam\03.BakeryShop\bin\Debug\net5.0\03.BakeryShop.exe
+C:\Users\User\source\repos\FundamentalsFinalExam\03.BakeryShop\bin\Debug\net5.0\03.BakeryShop.deps.json
+C:\Users\User\source\repos\FundamentalsFinalExam\03.BakeryShop\bin\Debug\net5.0\03.BakeryShop.runtimeconfig.json
+C:\Users\User\source\repos\FundamentalsFinalExam\03.BakeryShop\bin\Debug\net5.0\03.BakeryShop.runtimeconfig.dev.json
+C:\Users\User\source\repos\FundamentalsFinalExam\03.BakeryShop\bin\Debug\net5.0\03.BakeryShop.dll
+C:\Users\User\source\repos\FundamentalsFinalExam\03.BakeryShop\bin\Debug\net5.0\03.BakeryShop.pdb
+C:\Users\User\source\repos\FundamentalsFinalExam\03.BakeryShop\obj\Debug\net5.0\03.BakeryShop.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FundamentalsFinalExam\03.BakeryShop\obj\Debug\net5.0\03.BakeryShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FundamentalsFinalExam\03.BakeryShop\obj\Debug\net5.0\03.BakeryShop.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FundamentalsFinalExam\03.BakeryShop\obj\Debug\net5.0\03.BakeryShop.AssemblyInfo.cs
+C:\Users\User\source\repos\FundamentalsFinalExam\03.BakeryShop\obj\Debug\net5.0\03.BakeryShop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FundamentalsFinalExam\03.BakeryShop\obj\Debug\net5.0\03.BakeryShop.dll
+C:\Users\User\source\repos\FundamentalsFinalExam\03.BakeryShop\obj\Debug\net5.0\refint\03.BakeryShop.dll
+C:\Users\User\source\repos\FundamentalsFinalExam\03.BakeryShop\obj\Debug\net5.0\03.BakeryShop.pdb
+C:\Users\User\source\repos\FundamentalsFinalExam\03.BakeryShop\obj\Debug\net5.0\03.BakeryShop.genruntimeconfig.cache
+C:\Users\User\source\repos\FundamentalsFinalExam\03.BakeryShop\obj\Debug\net5.0\ref\03.BakeryShop.dll
